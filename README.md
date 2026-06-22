@@ -12,13 +12,13 @@ npm run dev
 Acesse:
 
 ```text
-http://127.0.0.1:5173/supremo.html
+http://127.0.0.1:5173/
 ```
 
-O app principal antigo do Nexus continua disponivel em:
+Tambem existe uma entrada direta em:
 
 ```text
-http://127.0.0.1:5173/
+http://127.0.0.1:5173/supremo.html
 ```
 
 ## Scripts
@@ -31,7 +31,7 @@ npm run test
 npm run preview
 ```
 
-## O que o sistema tem
+## Recursos
 
 - Pontuacao iniciando zerada.
 - 15 niveis: Recruta ate SUPREMO.
