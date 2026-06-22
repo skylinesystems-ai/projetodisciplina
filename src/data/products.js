@@ -1,0 +1,51 @@
+/** @type {import("@/types").Product[]} */
+export const products = [
+  {
+    name: "Camisa Dry Fit The Forge",
+    price: "R$ 129,90",
+    tag: "Drop Nexus",
+    icon: "shirt",
+    accent: "#00f5ff",
+    accent2: "#39ff88",
+  },
+  {
+    name: "Short Performance",
+    price: "R$ 109,90",
+    tag: "Mobilidade",
+    icon: "short",
+    accent: "#8b5cf6",
+    accent2: "#00f5ff",
+  },
+  {
+    name: "Creatina",
+    price: "R$ 89,90",
+    tag: "Força",
+    icon: "creatine",
+    accent: "#39ff88",
+    accent2: "#ffce57",
+  },
+  {
+    name: "Whey Protein",
+    price: "R$ 159,90",
+    tag: "Recuperação",
+    icon: "whey",
+    accent: "#ff3df2",
+    accent2: "#00f5ff",
+  },
+  {
+    name: "Pré-treino",
+    price: "R$ 99,90",
+    tag: "Energia",
+    icon: "preworkout",
+    accent: "#ffce57",
+    accent2: "#ff3df2",
+  },
+  {
+    name: "Relógio Smart Fitness",
+    price: "R$ 349,90",
+    tag: "Biometria",
+    icon: "watch",
+    accent: "#00f5ff",
+    accent2: "#8b5cf6",
+  },
+];
